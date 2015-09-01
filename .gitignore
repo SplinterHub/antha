@@ -46,3 +46,5 @@ cmd/anthafmt/anthafmt
 *~
 
 reference/reference_run/main
+
+*.DS_Store
