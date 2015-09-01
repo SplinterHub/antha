@@ -29,14 +29,14 @@ import (
 	"log"
 	"os"
 
-	"github.com/antha-lang/antha/antha/anthalib/wtype"
-	"github.com/antha-lang/antha/internal/github.com/nu7hatch/gouuid"
-	"github.com/antha-lang/antha/microArch/equipment"
-	"github.com/antha-lang/antha/microArch/equipment/manual"
-	"github.com/antha-lang/antha/microArch/equipment/manual/cli"
-	"github.com/antha-lang/antha/microArch/equipmentManager"
-	"github.com/antha-lang/antha/microArch/logger"
-	"github.com/antha-lang/antha/microArch/logger/middleware"
+	"github.com/SplinterHub/antha/antha/anthalib/wtype"
+	"github.com/SplinterHub/antha/internal/github.com/nu7hatch/gouuid"
+	"github.com/SplinterHub/antha/microArch/equipment"
+	"github.com/SplinterHub/antha/microArch/equipment/manual"
+	"github.com/SplinterHub/antha/microArch/equipment/manual/cli"
+	"github.com/SplinterHub/antha/microArch/equipmentManager"
+	"github.com/SplinterHub/antha/microArch/logger"
+	"github.com/SplinterHub/antha/microArch/logger/middleware"
 )
 
 type Frontend struct {

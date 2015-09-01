@@ -33,12 +33,12 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/antha-lang/antha/antha/ast"
-	"github.com/antha-lang/antha/antha/compile"
-	"github.com/antha-lang/antha/antha/execute"
-	"github.com/antha-lang/antha/antha/parser"
-	"github.com/antha-lang/antha/antha/scanner"
-	"github.com/antha-lang/antha/antha/token"
+	"github.com/SplinterHub/antha/antha/ast"
+	"github.com/SplinterHub/antha/antha/compile"
+	"github.com/SplinterHub/antha/antha/execute"
+	"github.com/SplinterHub/antha/antha/parser"
+	"github.com/SplinterHub/antha/antha/scanner"
+	"github.com/SplinterHub/antha/antha/token"
 )
 
 // execution variables
